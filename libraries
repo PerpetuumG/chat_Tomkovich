@@ -1,4 +1,13 @@
+запуск сервера
+npm run dev
+
+Устанавливаем для сервера
 cors
 express
 nodemon
 socket.io
+
+Устанавливаем для клиента
+emoji-picked-react
+react-router-dom
+socket.io-client
